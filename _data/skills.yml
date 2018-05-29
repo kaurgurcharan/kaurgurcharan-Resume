@@ -1,0 +1,35 @@
+# Skills
+# Languages
+- skill: Programming and Scripting Languages 
+  description: Java, JSP, Servlet, Javascript, C Sharp, ASP.NET, C/C++, HTML5, XML and CSS3
+ 
+# Databases
+- skill: Databases
+  description:  Microsoft SQL Server, SQLite3, Microsoft Access and MySQL 
+  
+# Web Services
+- skill: Web Services
+  description: REST and SOAP
+  
+# Frameworks
+- skill: Frameworks
+  description: Spring MVC and JPA/Hibernate
+
+# Application Server and Build Tool
+- skill: Application Server and Build Tool
+  description: Apache Tomcat and Maven
+  
+# Integrated Development Environment
+- skill: Integrated Development Environment
+  description: Eclipse, INTELLIJ and GIT
+  
+  
+# Business Analyst Tools
+- skill: Business Analyst Tools
+  description: Microsoft Visio, Microsoft Excel, Microsoft Outlook, Microsoft Word, Power BI,Balsamiq, Netsuite, Proto.io, Gephi, Unified Modelling Language and Adobe InDesign CC
+
+# Operating System
+- skill: Operating System
+  description:  Windows 7, 8, 8.1, 10 , iOS and Android
+
+  
