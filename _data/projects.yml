@@ -1,22 +1,27 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
-
 # Conestoga College
 - project: Website Design and User Experience
   role: Conestoga College, Kitchener ON Canada
   duration: Sept 2016 &mdash; Oct 2016
   # url: "#"
-  description: <ul class="resume-item-list"><li>Request for the information(RFI) from the client</li><li>Collect the requirements of a website from users, client and other stakeholders</li><li>Managed wireframes for the graphical representation of client product used for immediate client feedback</li><li>Developed mockups to elicit the detailed information for the further development</li></ul>
+  description: <ul class="resume-item-list"><li><b>Tools Used</b> &mdash; Balsamiq and Microsoft Visio</li><li>Request for the information(RFI) from the client</li><li>Collect the requirements of a website from users, client and other stakeholders</li><li>Managed wireframes for the graphical representation of client product used for immediate client feedback</li><li>Developed mockups to elicit the detailed information for the further development</li></ul>
 
 # Conestoga College
 - project: User Experience Design
   role: Conestoga College, Kitchener ON Canada
   duration: Oct 2016 &mdash; Nov 2016
   # url: "#"
-  description: <ul class="resume-item-list"><li>Organized meetings with the client to prepare and update business process requirements</li><li>Developed use cases to depict the role of each actor</li><li> Gathered demographic information to make strategy documentation</li><li>Created mockups for the user interface design using Proto.io</li></ul>
+  description: <ul class="resume-item-list"><li><b>Tools Used</b> &mdash; Proto.io,Microsoft Visio and Microsoft Word</li><li>Organized meetings with the client to prepare and update business process requirements</li><li>Developed use cases to depict the role of each actor</li><li> Gathered demographic information to make strategy documentation</li><li>Created mockups for the user interface design using Proto.io</li></ul>
   
-  # Conestoga College
+# Conestoga College
 - project: Production Inefficiency
   role: Conestoga College, Kitchener ON Canada
   duration: Nov 2016 &mdash; Dec 2016
-  description: <ul class="resume-item-list"><li>Prioritized business and system problems</li><li>Determined the causes and effects(Fish-bone Diagram) in the manufacturing of the project</li><li>Presented the AS-IS and TO-BE scenario for the production</li><li>Redesigned the layout of the factory by doing spaghetti analysis</li></ul>
+  # url: "#"
+  description: <ul class="resume-item-list"><li><b>Tools Used</b> &mdash; Microsoft Excel, Microsoft Visio and Adobe InDesign CC</li><li>Prioritized business and system problems</li><li>Determined the causes and effects(Fish-bone Diagram) in the manufacturing of the project</li><li>Presented the AS-IS and TO-BE scenario for the production</li><li>Redesigned the layout of the factory by doing spaghetti analysis</li></ul>
+  
+# Punjab Technical University
+- project: Flip and Trip
+  role: Punjab Technical University, Punjab, India(Group project-Part of Development Team)
+  duration: Nov 2016 &mdash; Dec 2016
+  # url: "#"
+  description: <ul class="resume-item-list"><li><b>Technologies Used</b> &mdash; C sharp, ASP.Net, SQL Server 2005, HTML and CSS</li><li>The project turns travel planning into fun and exciting social activities by discovering some of the best attractions, restaurants and hotels around the world</li><li>Developed a user friendly interface for selecting hotels, retaurants and attractions</li><li>Increased the efficiency to automation</li><li>Used prototype model for software development</li></ul>

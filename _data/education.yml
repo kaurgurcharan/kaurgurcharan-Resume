@@ -6,6 +6,11 @@
    # - award: Summa Cumme Laude graduate
  # summary: If you had any meaningful roles at college, feel free to write about them here
 
+- degree: Master of Technology in Computer Science Engineering
+  uni: Maharshi Dayanand University, Haryana, India
+  year: Aug 2013 &mdash; May 2015
+  summary: <ul class="resume-item-list"><li><b>Research</b> &mdash; Published paper in IJSR-2015 "Test Suite Optimization Using Artificial Bee Colony Algorithm and Adaptive Neural Fuzzy Inference System"(Url &mdash; https://www.ijsr.net/archive/v4i10/SUB157582.pdf)</li></ul>
+  
 - degree: Bachelor of Technology in Computer Science Engineering
   uni: Punjab Technical University, Punjab, India
   year: Aug 2009 &mdash; May 2013
